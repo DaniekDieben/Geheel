@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "936064946566",
+    "firebase_url": "https://final-a78fd.firebaseio.com",
+    "project_id": "final-a78fd",
+    "storage_bucket": "final-a78fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936064946566:android:90c28f45743d3fe7",
+        "android_client_info": {
+          "package_name": "com.example.geheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936064946566-mi36v5u4b7o8ift5qr0pg8e8icrseh8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geheel",
+            "certificate_hash": "9da42dfecdf65a249e5e97c8e2724a5a2d460f78"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlUUxDFHv3xE9q0kidD0WIjBVEiuJ6Ifk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936064946566-a81oivg8vob696f1tb1j1npnpdlqamuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
